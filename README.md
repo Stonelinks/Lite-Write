@@ -11,6 +11,5 @@ Lite Write is my approach to word processing, and what I use in place of a MS wo
 
 ##Dependencies
 
-- [twitter bootstrap](twitter.github.com/bootstrap/)
 - [markdown](http://daringfireball.net/projects/markdown/)
 - [wkhtmltopdf](http://code.google.com/p/wkhtmltopdf/)

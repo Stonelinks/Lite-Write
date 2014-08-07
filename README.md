@@ -1,4 +1,4 @@
-##Welcome to Lite Write
+##Deprecated, see https://github.com/Stonelinks/document
 
 Like most programmers, I'm most comfortable manipulating text in my editor of choice. I do a fair amount of writing though, and it needs to be accessible to non programmers, which means it really can't stay in plain text.
 
